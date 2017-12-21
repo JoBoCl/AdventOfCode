@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-AdventOfCode",
+      "appliesTo": "AdventOfCode/",
+      "type": "command"
+    },
+    {
+      "taskName": "task-AdventOfCode",
+      "appliesTo": "AdventOfCode/",
+      "type": "command"
+    },
+    {
+      "taskName": "task-AdventOfCode",
+      "appliesTo": "AdventOfCode/AdventOfCode.csproj",
+      "type": "command"
+    }
+  ]
+}
